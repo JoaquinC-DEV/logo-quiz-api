@@ -1,0 +1,21 @@
+{
+    "all": [
+        "Netflix",           "Nike",          "Facebook",
+        "YouTube",           "Android",       "Calvin Klein",
+        "Barbie",            "Monster",       "Microsoft",
+        "Windows",           "Rolex",         "Beats",
+        "Pantene",           "WWE",           "Chanel",
+        "Bose",              "Ford",          "Corona",
+        "MasterCard",        "eBay",          "Visa",
+        "Adidas",            "Samsung",       "Pringles",
+        "LA Lakers, Lakers", "Volvo",         "Jordan, Air Jordan",
+        "Skype",             "New Balance",   "Louis Vuitton",
+        "Michael Kors",      "Reddit",        "Red Bull",
+        "BMW",               "Levis",         "CocaCola",
+        "Sony",              "Burger King",   "Mazda",
+        "Google",            "Razer",         "Starbucks",
+        "Audi",              "TikTok",        "Volkswagen",
+        "McDonalds",         "Amazon",        "Twitter",
+        "Apple",             "Mercedes Benz", "Tesla"
+      ]
+}
